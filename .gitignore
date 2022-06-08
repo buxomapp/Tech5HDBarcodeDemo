@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/tensorflow-lite/build/
+/tensorflow-lite-select-tf-ops/build/
+/tensorflow-lite-support/build/
